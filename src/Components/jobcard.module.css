@@ -1,0 +1,195 @@
+@media screen and (min-width: 415px) {
+    .cardwrapper {
+        border: 2px solid green;
+        margin: 5x;
+        display: flex;
+        background-color: papayawhip;
+    }
+
+    img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+    }
+
+    .form {
+        flex: 1;
+        margin: 10px;
+        border: 2px solid black;
+        background-color: #6E9AA5;
+    }
+
+    span {
+        font-weight: bolder;
+    }
+
+    label {
+        display: inline-block;
+        font-weight: bolder;
+        width: 100px;
+        margin: 5px;
+        text-align: right;
+
+    }
+
+    .form select {
+        width: 150px;
+    }
+
+    .form input[type="submit"] {
+        width: 150px;
+    }
+
+    button {
+        border-radius: 10px;
+        width: 70px;
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .cardwrapper {
+        border: 2px solid green;
+        margin: 5x;
+        display: flex;
+        background-color: papayawhip;
+    }
+
+    img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+
+    .form {
+        flex: 1;
+        margin: 10px;
+        border: 2px solid black;
+        background-color: #6E9AA5;
+    }
+
+    span {
+        font-weight: bolder;
+    }
+
+    label {
+        display: inline-block;
+        font-weight: bolder;
+        width: 140px;
+        margin: 5px;
+        text-align: right;
+
+    }
+
+    .form select {
+        width: 180px;
+    }
+
+    .form input[type="submit"] {
+        width: 300px;
+    }
+
+    button {
+        border-radius: 10px;
+        width: 100px;
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .cardwrapper {
+        border: 2px solid green;
+        margin: 5x;
+        display: flex;
+        background-color: papayawhip;
+    }
+
+    img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+
+    .form {
+        flex: 1;
+        margin: 10px;
+        border: 2px solid black;
+        background-color: #6E9AA5;
+    }
+
+    span {
+        font-weight: bolder;
+    }
+
+    label {
+        display: inline-block;
+        font-weight: bolder;
+        width: 140px;
+        margin: 5px;
+        text-align: right;
+
+    }
+
+    .form select {
+        width: 180px;
+    }
+
+    .form input[type="submit"] {
+        width: 300px;
+    }
+
+    button {
+        border-radius: 10px;
+        width: 100px;
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .cardwrapper {
+        border: 2px solid green;
+        margin: 5x;
+        display: flex;
+        background-color: papayawhip;
+    }
+
+    img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+
+    .form {
+        flex: 1;
+        margin: 10px;
+        border: 2px solid black;
+        background-color: #6E9AA5;
+    }
+
+    span {
+        font-weight: bolder;
+    }
+
+    label {
+        display: inline-block;
+        font-weight: bolder;
+        width: 140px;
+        margin: 5px;
+        text-align: right;
+
+    }
+
+    .form select {
+        width: 180px;
+    }
+
+    .form input[type="submit"] {
+        width: 300px;
+    }
+
+    button {
+        border-radius: 10px;
+        width: 100px;
+        margin: 5px;
+    }
+}
