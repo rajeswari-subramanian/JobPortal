@@ -65,7 +65,7 @@ export default class JobContextProvider extends React.Component {
             companyName: companyName,
             location: location,
             remote: val,
-            logo: logo.current.files[0].name,
+            logo: logo.current.files[0] ? logo.current.files[0].name ? logo.current.files[0].name : "" : "",
             date: date,
         }
         this.setState({
